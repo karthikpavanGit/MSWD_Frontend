@@ -15,7 +15,7 @@ const HomePage = () => {
             <h5 className="card-title">Indias No #1 Carrer Platform</h5>
             <p className="card-text">
               Search and manage your jobs with ease. free and open source job
-              ortal application by techinfoyt
+              ortal application by our Job-Portal
             </p>
             <div className="d-flex justify-content-between mt-5">
               <p>
